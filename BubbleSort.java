@@ -20,7 +20,7 @@ public class BubbleSort{
                     arr[j + 1] = temp;
                     swapped = 1;
                 }
-                System.out.println(Arrays.toString(arr));
+                System.out.println(Arrays.toString(arr)); //converts an array into a readable string format else will give the memory reference of the array
                 //System.out.println();
                 //printArray(arr);
             }
