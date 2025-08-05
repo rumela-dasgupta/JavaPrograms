@@ -19,7 +19,7 @@ public class LinearSearch1 {
         System.out.print("Enter size of the list [1-20]: ");
         int n = scanner.nextInt();
 
-        int[] arr = new int[20];
+        int[] arr = new int[n];
         System.out.println("Enter " + n + " numbers one by one:");
         for (int i = 0; i < n; i++) {
             System.out.print("a[" + i + "] = ");
