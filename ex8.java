@@ -15,7 +15,7 @@ class ex8{
         System.out.println("**Required Details of the following Employee**"+"\n"+"Employee code: "+empcode+"\n"+"Basic pay: "+basic_pay+"\n"
         +"D.A.: "+da+"\n"+"H.R.A: "+hra+"\n"+"Gross pay: "+gross_pay);
 
-
+int a=10
 
     }
 }
